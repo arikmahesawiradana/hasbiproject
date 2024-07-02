@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "milk-collecting-point",
+  "private_key_id": "2aaef6f5e14c8d6521ca9e7138dde3d0c9913c81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGLxOg4abmGYYS\nluKSLpGYDOx0KWpCxjinDuSr5junkWACAcOuRDoSIdcHpH8dY1faQb39Z4SnpJHS\noM822gX62TKmywtcwWWqvr1EuM3+8mpcQ+W3uXwNExhk+6oAdyvPWEPM27RsoAgk\nC1+czX+pxKcucYvhxCJ3LvCLthNV4cIbrNPuypScJybLHrzsG88Xdt8V626ktN5Q\nob21h1sTV4Be3SiWe1BZsaeFbqe12TfVFtOWP6+R6fIoP589mfe0Fjv1mECZff3O\nApbfifk57kGQywEkvxTHx9mBcGT0ca34oAFPjPb25gm9IZoj8H3hibocaBkI0Zcf\njbHT3c8bAgMBAAECggEACalj4JT/qPoXkjJu60d/65S9tlAKkSTOwD42obbAs8Of\nlZl2a7mBxz6FGCdJ1ynvr4FC/OaeDfo07brPP1JTtk3+bSk67ZO0HCXeXkpQKJyy\n2LqqqVFOneiPaOTn/cvRg/M+ou8XFbCblP5E9AUEs0cWC2qXsjL4pyzPp1ACE06v\nPNR73uGyxDUJ4nB91abKXAlPAlNePIH1IDlwgMcZlBRkGRs+ictzex0l5+KRVpbc\nmDWdDiwmyr/WJxn7s8NJ/GEb4W4dExbo2iAaOjA+Y3h63cWRF3mrD2YBmsSUJxOg\nRR1xyfbD4360uQxqLxZKCwly4WeksIsYuZtFwEd5QQKBgQDyvJ09kHxqLPf0iGEW\n995ee3ycU7srgfnSb4tKcfkAxg3AeDnt83gitwa+gGTIxEv983fNhzR8zUyat91b\ndr0IE9BCYVxwnG0j5y1Bw0tmZm7nCcvonFL/yV/mAoPlW0s1rTo96eZB/orCZGdc\nqxiOTkt6730u2E2z+b9BSaOpYQKBgQDRA0J9qRjAHaHtop7btOQZcmtQVDn+E+RX\nGivyFa0Xn5RAdkZP8mrWkv4oou1olghdIXbcFx6r7N4Cq+ft5yd4/Lrv1zgBkdwN\nqOZzdFgq2LdVihYuzej0TB9HARzR/ptDwM3GAivjBXMO9Uf2hWKfQ3qq9KC2F9qP\nrlcGP+7d+wKBgCb2z+bKAq6oeUTvf2ZIc5GHEQGnDyx0uL1m2l0g3m+ZWyvCIMpp\ngqdP6e06fvMbT3d8VYbQZUSDUACl8wpzjPR2+b8uEcCh24Mf4MvlpXzShIrhr7Gv\nJkOY96PcU3/Fn9UF8YtuuF9vlKaPp2fgrxhoyQT63IVgg1iYhnLcd0EBAoGBAJx1\n5zkv8vIlfIjqGib3s2SFLWYVls/mziCR2+G9bjRn5c+XeizwmB+GK7H5vOR0o1Ar\n89Dvkas7hjnTu6twRTEhZ0KRBkDOkj67d79nkXSJhDwJQW/J/h+aODOr1oowIMRI\nOQGHsJiiBK5m2HbnBJuaJOKCeye0lYzHAigQhdwvAoGASijFXLKuo/j7i4arK6MR\n9wRXV/0HTpzdVyrtPWcgxrTf0tLuqk+gySL8eLBL+YcJj2xgqR/Ulgz+Koj58ybA\nHsE8fJYUwredsGY1BPcVXmlaRZx03/j4K7mRgTl0UlhLTPySxUjXWjTbZW7MLXRO\ndVYFyO0lH72ur/Ifgk3OBJQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hasbian@milk-collecting-point.iam.gserviceaccount.com",
+  "client_id": "103372951384238010785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hasbian%40milk-collecting-point.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
